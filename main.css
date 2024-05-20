@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rebeccapurple;
+
+}
+.header{
+    background-color: blue;
+}
+#header2{
+    background-color: brown;
+}
