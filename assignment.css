@@ -1,0 +1,17 @@
+.parent{
+    background-color: rgb(186, 193, 193);
+
+    text-align: center;
+   
+}
+.child{
+    display: inline-block;
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+    width: 350px;
+    margin: 0px;
+    height: auto;
+    padding: 5px;
+
+}
