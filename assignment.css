@@ -10,8 +10,11 @@
     border-color: black;
     border-width: 2px;
     width: 350px;
-    margin: 0px;
+    margin: 5px;
     height: auto;
     padding: 5px;
 
+}
+.child:hover{
+    background-color: aqua;
 }
