@@ -41,3 +41,15 @@ p{
         align-items: center;
     }
 }
+.positionrelative{
+   width: 100%;
+   background-color: black;
+   color: wheat;
+   position: relative;
+   
+
+}
+.absolute{
+    position: absolute;
+    color: white;
+}
